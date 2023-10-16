@@ -4,7 +4,7 @@
 # compile CXX with /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/stepannovichihin/Downloads/project/project/include -F/Library/Frameworks
+CXX_INCLUDES = -I/Users/stepannovichihin/Downloads/GitHub/messenger/project/project/include -F/Library/Frameworks
 
-CXX_FLAGS =  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -iframework /Library/Frameworks/. 
+CXX_FLAGS =  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -iframework /Library/Frameworks/. 
 

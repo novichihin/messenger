@@ -5,8 +5,8 @@ SET(CMAKE_CXX_STANDART 17)
 
 INCLUDE_DIRECTORIES(project/include)
 
-find_package(SFML 2.5 COMPONENTS graphics audio REQUIRED)
+find_package(SFML 2.5 COMPONENTS network REQUIRED)
 
 add_executable(${PROJECT_NAME} main.cpp)
 
-target_link_libraries(main.out sfml-graphics sfml-audio)
+target_link_libraries(main.out sfml-network)

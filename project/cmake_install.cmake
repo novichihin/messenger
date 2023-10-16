@@ -1,4 +1,4 @@
-# Install script for directory: /Users/stepannovichihin/Downloads/project
+# Install script for directory: /Users/stepannovichihin/Downloads/GitHub/messenger/project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/stepannovichihin/Downloads/project/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/stepannovichihin/Downloads/GitHub/messenger/project/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

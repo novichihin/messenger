@@ -1,3 +1,3 @@
-/Users/stepannovichihin/Downloads/project/CMakeFiles/main.out.dir
-/Users/stepannovichihin/Downloads/project/CMakeFiles/edit_cache.dir
-/Users/stepannovichihin/Downloads/project/CMakeFiles/rebuild_cache.dir
+/Users/stepannovichihin/Downloads/GitHub/messenger/project/CMakeFiles/main.out.dir
+/Users/stepannovichihin/Downloads/GitHub/messenger/project/CMakeFiles/edit_cache.dir
+/Users/stepannovichihin/Downloads/GitHub/messenger/project/CMakeFiles/rebuild_cache.dir
